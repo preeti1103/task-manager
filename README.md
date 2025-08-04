@@ -6,14 +6,14 @@ A clean, lightweight todo list web app with local storage persistence. Add tasks
 
 ## Features
 - Add tasks with optional due dates  
-- 🗑Delete tasks once completed  
+- Delete tasks once completed  
 - Auto-saves to browser local storage (no database required)  
 - Clean, responsive design for desktop and mobile  
 - Keyboard-friendly (press **Enter** to add a task quickly)
   
 ---
 
-## 🛠️ Installation
+## Installation
 **No installation needed!** Just open `index.html` in any modern browser.
 
 For developers:
